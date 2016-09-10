@@ -450,6 +450,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Warcraft 3/Warcraft 3-Prefix.pch";
 				INFOPLIST_FILE = "Warcraft 3/Warcraft 3-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/usr/lib",
@@ -468,6 +469,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Warcraft 3/Warcraft 3-Prefix.pch";
 				INFOPLIST_FILE = "Warcraft 3/Warcraft 3-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/usr/lib",
